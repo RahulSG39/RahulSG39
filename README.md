@@ -17,9 +17,9 @@
 
 - 🔭 I’m currently working on **E-Commerce Web Application**
 
-- 🌱 I’m currently learning **Vue.js React.js**
+- 🌱 I’m currently learning **Node.js React.js MongoDB**
 
-- 💬 Ask me about **React,Vue,Js,Python**
+- 💬 Ask me about **React,Node,Js,Python**
 
 - 📫 How to reach me **rahulgirish39@gmail.com**
 
