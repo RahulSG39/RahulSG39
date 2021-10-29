@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsg39&theme=chalk&column=3&row=1" alt="rahulsg39" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulsg39&theme=chalk&column=5&row=1" alt="rahulsg39" /></a> </p>
 
 - 🔭 I’m currently working on **E-Commerce Web Application**
 
