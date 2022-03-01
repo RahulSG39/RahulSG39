@@ -66,8 +66,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <span>&nbsp;</span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<span>&nbsp;</span>![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
+![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <p>&nbsp;</p>
 
 
