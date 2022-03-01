@@ -66,7 +66,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <span>&nbsp;</span>
 
-![MasterHead](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![MasterHead](https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif)
 <p>&nbsp;</p>
 
 
