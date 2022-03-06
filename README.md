@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul S Girish</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Rahul S Girish</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <span>&nbsp;</span>
 
@@ -58,7 +58,7 @@
   <a href="https://github.com/RahulSG39/github-readme-stats"><img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSG39&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b style="font-weight:900">Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
