@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Application**
 
-- 🌱 I’m currently learning **Angular, React, Node, MongoDB**
+- 🌱 I’m currently learning **Angular, Node, MongoDB**
 
 - 💬 Ask me about **JS, Angular, React**
 
